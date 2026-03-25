@@ -1,0 +1,3 @@
+0.0.0.0 www.trading212.com
+0.0.0.0 www.trading212.com.cdn.cloudflare.net
+0.0.0.0 mobile.events.data.microsoft.com
